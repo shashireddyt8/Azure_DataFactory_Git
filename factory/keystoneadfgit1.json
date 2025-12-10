@@ -1,0 +1,9 @@
+{
+	"name": "keystoneadfgit1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25ea985e-3274-42d8-b34a-7ad2bc3e8c81",
+		"tenantId": "30db4840-7b43-4cb0-b3c1-4b20cc6a1ab4"
+	}
+}
